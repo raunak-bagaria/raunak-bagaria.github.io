@@ -30,9 +30,9 @@ hello world again
 
 
 ### Table
-Col 1 | Col 2
------ | -----
-Foo | Bar
+|Col 1 | Col 2|
+|----- | -----|
+|Foo | Bar|
 
 
 [My link](https://cricbuzz.com)
